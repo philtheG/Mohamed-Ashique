@@ -1,7 +1,6 @@
 
 **Flashbtclive/FlashBTCLive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-www.flashbtc.live
 
 Flash btc transaction (core network) is a software designed to enable you send fake Bitcoin from any wallet address to another wallet address on the blockchain network (Coinbase, Binance, Blockchain, etc.) for free.
 
@@ -16,4 +15,3 @@ You can generate and send up to 100 Bitcoin daily with the basic licence and 100
 -Support all btc format address (segwit, legacy, bch, bsc)
 
 
-t.me/Flashbtclive - www.flashbtc.live
